@@ -20,4 +20,9 @@ development and debate.
 
 NOTE: Defi Quant..Decentralized finance quantitative engineer
 
+in this app..features include
+1. Deposit collaterals: ETH / WETH (ethereum and wrapped etheruem)
+2. Borrow another asset: DAI
+3. Repay the DAI
+
 
