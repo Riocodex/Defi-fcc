@@ -1,0 +1,15 @@
+{
+  "name": "defi-aave",
+  "version": "1.0.0",
+  "description": "What Is Decentralized Finance (DeFi)?\r Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies. The system removes the control banks and institutions have on money, financial products, and financial services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.11.1"
+  }
+}
