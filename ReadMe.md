@@ -20,6 +20,13 @@ development and debate.
 
 NOTE: Defi Quant..Decentralized finance quantitative engineer
 
+WETH(Wrapped Ethereum or ether)
+When we go to deposit ethereunm on arbatron or ploygon etc ..they send you
+ethereum in a weth gateway and swaps it for weth.
+Weth is basically ethereum..but in an erc20 token contract.
+in this app we will skip using this weth gate way and get the weth ourselves
+and use it as collateral
+
 in this app..features include
 1. Deposit collaterals: ETH / WETH (ethereum and wrapped etheruem)
 2. Borrow another asset: DAI
